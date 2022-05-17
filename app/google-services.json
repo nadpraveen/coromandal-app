@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "642009547360",
+    "firebase_url": "https://coromandelcoopsociety.firebaseio.com",
+    "project_id": "coromandelcoopsociety",
+    "storage_bucket": "coromandelcoopsociety.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642009547360:android:a1418695019570c136f905",
+        "android_client_info": {
+          "package_name": "com.techunico.coromandelcoopsociety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642009547360-ate1a1c8nosu4vq2t9cpcteejpku33me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN1-yrWXKIJM3xarYCfIZZ2vom-kc_x4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642009547360-ate1a1c8nosu4vq2t9cpcteejpku33me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
